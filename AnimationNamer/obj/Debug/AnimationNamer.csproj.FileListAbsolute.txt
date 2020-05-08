@@ -1,0 +1,13 @@
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\bin\Debug\AnimationNamer.exe.config
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\bin\Debug\AnimationNamer.exe
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\bin\Debug\AnimationNamer.pdb
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\obj\Debug\AnimationNamer.csprojAssemblyReference.cache
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\obj\Debug\AnimationNamer.Form1.resources
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\obj\Debug\AnimationNamer.Properties.Resources.resources
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\obj\Debug\AnimationNamer.csproj.GenerateResource.cache
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\obj\Debug\AnimationNamer.csproj.CoreCompileInputs.cache
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\obj\Debug\AnimationNamer.exe
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\obj\Debug\AnimationNamer.pdb
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\obj\Debug\AnimationNamer.csproj.ResolveComReference.cache
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\bin\Debug\EPPlus.dll
+G:\ZYF Project\C#\2020.1.25\AnimationNamer\AnimationNamer\obj\Debug\AnimationNamer.csproj.CopyComplete
